@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "A timer for speedrunning diamonds",
+    "min_format": [
+      122,
+      1
+    ],
+    "max_format": 122
+  }
+}
